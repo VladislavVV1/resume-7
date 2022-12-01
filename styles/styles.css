@@ -1,0 +1,179 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: #E5E5E5;
+}
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+main{
+    background-color: #fff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px ;
+
+}
+.about-user h4{
+    margin-bottom: 20px;
+}
+main h4{
+    font-style: normal;
+    font-weight: bold;
+    Font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 10px;
+    color: #000000;
+}
+main h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 25px;
+    color: #000000;
+}
+.about-user p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    max-width: 400px;
+    margin-bottom: 40px;
+}
+main h3{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+ol{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    padding-left:15px;
+}
+ol a,
+ol span{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    text-decoration: none; 
+}
+.work h4 span{
+    color: #FB6D3A;
+}
+.work p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 10px;
+}
+.work p span{
+    color: black;
+}
+main ul{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    padding-left: 15px;
+}
+.Education h4{
+    color: #FB6D3A;
+    margin-bottom: 10px;
+}
+.Management{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+.time{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+.Education span{
+    color:black;
+}
+aside{
+    background: #1E2939;
+    padding-top: 40px;
+    max-width: 370px;
+}
+.wrapper{
+    position: relative;
+    background: grey;
+}
+img{
+    max-width: 370px;
+    margin-bottom: 50px;
+    opacity: 0;
+}
+.img-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(50% 50%);
+}
+aside h3{
+    font-style: normal;
+    font-size: 22px;
+    line-height: 27px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+aside div{
+    margin-left: 40px;
+}
+.contacts{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    margin-right:10px;  
+}
+.contacts{
+    margin-left: 0px;
+    margin-bottom: 50px;
+}
+.contacts a{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    opacity: 0.5;
+    text-decoration: none; 
+}
+.Tech-Skills{
+    margin-bottom: 45px;
+}
+aside ul{
+    color:#FB6D3A;
+    padding: 0;
+    margin-left: 20px;
+}
+.Skills{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+}
